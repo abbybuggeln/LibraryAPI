@@ -1,0 +1,88 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder config
+*.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Auto-generated files
+*.pidb
+*.log
+*.scc
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio profiler
+.vspscc
+.vspscc.[Uu]sers/
+
+# Roslyn
+*.sln.dotsettings
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package directories
+**/node_modules/
+**/bower_components/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# NPM packages
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# C# Auto-generated files
+Generated/
+
+# Hidden folders
+**/.git
